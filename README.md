@@ -1,6 +1,8 @@
-# Todo List in React JS
+# TodoList in React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Online Preview : https://hilarious-cascaron-c8d139.netlify.app/
+
+##
 
 ## Available Scripts
 
